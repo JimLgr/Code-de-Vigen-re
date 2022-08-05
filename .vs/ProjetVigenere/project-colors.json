@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f94d52f6-df4e-4ffe-a4c3-50b68a4412d1": {
+      "ProjectGuid": "f94d52f6-df4e-4ffe-a4c3-50b68a4412d1",
+      "DisplayName": "ProjetVigenere",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
